@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NSChat</string>
+    <string name="submit_username">username</string>
+    <string name="submit_password">password</string>
+    <string name="login_loginBtn">Login</string>
+    <string name="login_not_registered">Not registered?</string>
+    <string name="login_click_here">click here</string>
+    <string name="login_to_register">to register</string>
+    <string name="submit_confirm_password">confirm password</string>
+    <string name="submit_display_name">display name</string>
+    <string name="login_setting">setting</string>
+    <string name="submit_add_photo">add_photo</string>
+    <string name="submit_registerBtn">Register</string>
+    <string name="submit_already_registered">Already registered?</string>
+    <string name="submit_to_login">to login</string>
+    <string name="logo">logo</string>
+    <string name="gallery_image">gallery image</string>
+    <string name="submit_description_password">description: password</string>
+    <string name="submit_description_confirm_password">description: confirm password</string>
+    <string name="submit_description_username">description: username</string>
+    <string name="submit_description_display_name">description: display name</string>
+    <string name="setting_server_s_address">Server\'s Address:</string>
+    <string name="setting_change_theme">Change Theme:</string>
+    <string name="setting_light">Light</string>
+    <string name="setting_dark">Dark</string>
+    <string name="errorPassword">The passwords are different or do not contain at least 8 characters,a number and a letter.</string>
+    <string name="errorDisplayName">The display name can only contain letters.</string>
+    <string name="errorPhoto">Missing image</string>
+    <string name="BaseUrl">http://10.0.2.2:3000/api/</string>
+    <string name="username_to_add">username to add..</string>
+    <string name="add_user">Add user</string>
+    <string name="wrong_username_or_password">wrong username or password</string>
+</resources>

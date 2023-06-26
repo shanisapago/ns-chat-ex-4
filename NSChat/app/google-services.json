@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402374433494",
+    "project_id": "nschat-5b1bd",
+    "storage_bucket": "nschat-5b1bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402374433494:android:e3a98cc2a7264f37f34777",
+        "android_client_info": {
+          "package_name": "com.example.nschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402374433494-fb7npd9af65fk3n82sjo8ukv502fc17s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYmWgGHoaCkLoCGZgSQn2SXGIfivDVldg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402374433494-fb7npd9af65fk3n82sjo8ukv502fc17s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

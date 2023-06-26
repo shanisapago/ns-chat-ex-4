@@ -19,17 +19,49 @@ The display name-the name which will display to others, the display name must be
 choose a picture-the user choose a picture and it must be in png,jpg,jpeg,gif if the user will try to put photo in diffrent kind, an error message will apear after the user enter all the fields, he may click on the regiser button that will take him to the login screen All fields are required!</br>
 if the user will try to regiser with part of the fields,an error message will appear </br>
 if the user has a account, he can click on the "click here" button and it will open him the login screen</br>
+
+
+
+![submitPhoto](https://github.com/shanisapago/ns-chat-ex-4/assets/118678355/f064e794-06e7-4ef8-bdf6-2f860e5b48e8)
+
+
+
 ## Login screen
 The log-in screen is for users that have account and want to start chating
 They need to enter their username and password</br> if the user will try to enter a username that does not exist or uncorrect password,an error message will apear </br>if the user want to sign in, he can click the "click here" button ant it will open him the sign in screen </br>after entering the coreect username and password, he may click on the login button that will take him to the chat screen
+
+
+
+![loginPhoto](https://github.com/shanisapago/ns-chat-ex-4/assets/118678355/3fb05b97-7bbd-43f7-b576-8b85d3ef582d)
+
+
+
 ## contacts screen
 There is a list of the users you can chat with them, you can add a contact by the adding button.</br> You can add just a users that are already regisered, you add them by their username for each contact, the last message and the time of message will be apear next to the user in the list </br>
 There is a logout button that lead to the login screen
+
+
+
+![ChatPhoto](https://github.com/shanisapago/ns-chat-ex-4/assets/118678355/7e14194a-fcd0-402d-8e81-38976f999dfe)
+
+
+
 ## chat screen 
- The chat screen is a conversation with one of the users</br> you can sending message using the input text and recive message
- when you open the chat screen you could choose if to get notification from this app or not, if you choose to get notifications, you will be able to get notification from another users
+The chat screen is a conversation with one of the users</br> you can sending message using the input text and recive message
+when you open the chat screen you could choose if to get notification from this app or not, if you choose to get notifications, you will be able to get notification from another users
 you can chat live with people due to firebase clouse messaging
+
+
+
+![InChatPhoto](https://github.com/shanisapago/ns-chat-ex-4/assets/118678355/a0c5e16a-aed3-4fef-8ff2-391d7e7ae9a6)
+
+
+
 ## settings 
 The settings screen is for changing theme and for changing server port 
+
+
+
+![Uploading settingPhoto.png…]()
 
 

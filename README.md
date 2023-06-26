@@ -9,7 +9,8 @@ The name of our chat is NS chat There are 5 screens:</br>
 5.setting:while you can ti change the server port and change theme</br>
 ## Instruction
 Open the Terminal and write: git clone 
-Then if you dont have android studio and mongodb download it and 
+Then if you dont have android studio and mongodb download it and
+be attention that every user can have just one account in the android!
 ## Sign-in screen
 The sign-in screen is the main screen for people who want to create a new user They need to enter the next fileds:</br>
 The username-the username must be unique and if the user will try to signin whith username that exist an error message will appear </br>
